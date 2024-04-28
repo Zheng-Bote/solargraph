@@ -43,12 +43,17 @@ Angular webapp to visualize ShellYield json
 
 ![ops](https://img.shields.io/badge/Status-usable-yellow)
 
+![dev](https://img.shields.io/badge/Info-limited_functionality-yellow)
+**Still under development**
+
+just visualize the given json files on one page. No modern usage of signals etc.
+
 ### DESC:
 
 <span id="description"></span>
 Angular webapp to visualize ShellYield json
 
-see also: <a href="https://github.com/Zheng-Bote/solaryield" alt="solaryield" title="https://github.com/Zheng-Bote/solaryield">SolarYield</a>
+**_see also_** <a href="https://github.com/Zheng-Bote/solaryield" alt="solaryield" title="https://github.com/Zheng-Bote/solaryield">SolarYield:</a> read and consolidate Shelly Plug consumption.csv to clean csv or json
 
 ### AUTHOR:
 
@@ -76,7 +81,7 @@ Source: https://angular.io/
 
 - example Graph:
 
-see <a href="https://github.com/Zheng-Bote/solaryield" alt="solaryield" title="https://github.com/Zheng-Bote/solaryield">read and consolidate Shelly Plug consumption.csv to clean csv or json</a>
+**_see also_** <a href="https://github.com/Zheng-Bote/solaryield" alt="solaryield" title="https://github.com/Zheng-Bote/solaryield">SolarYield</a> read and consolidate Shelly Plug consumption.csv to clean csv or json
 
 <img src="https://raw.githubusercontent.com/Zheng-Bote/solaryield/main/Examples/graph.png"  width="100%" height="auto" />
 
