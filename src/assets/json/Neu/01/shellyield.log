@@ -1,0 +1,19 @@
+﻿2024-04-28 13:37:57.827 INFO  [12216] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:37:57.827 INFO  [12216] [main@145] OK: Inputfile: zendure_speicher_consumption_01_01_2024_00h__01_02_2024_00h.csv
+2024-04-28 13:38:52.933 INFO  [12280] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:38:52.933 INFO  [12280] [main@145] OK: Inputfile: zendure_speicher_consumption_01_01_2024_00h__01_02_2024_00h.csv
+2024-04-28 13:38:58.249 INFO  [12281] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:38:58.249 INFO  [12281] [main@145] OK: Inputfile: zendure_speicher_consumption_01_01_2024_00h__01_02_2024_00h.csv
+2024-04-28 13:38:58.279 INFO  [12281] [main@167] OK: Outputfile: out.csv
+2024-04-28 13:39:14.083 INFO  [12291] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:39:14.083 INFO  [12291] [main@145] OK: Inputfile: out.csv
+2024-04-28 13:39:46.384 INFO  [12294] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:39:46.384 INFO  [12294] [main@145] OK: Inputfile: garten_consumption_01_01_2024_00h__01_02_2024_00h.csv
+2024-04-28 13:39:46.415 INFO  [12294] [main@167] OK: Outputfile: out.csv
+2024-04-28 13:40:05.852 INFO  [12295] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:40:05.852 INFO  [12295] [main@145] OK: Inputfile: garten_consumption_01_01_2024_00h__01_02_2024_00h.csv
+2024-04-28 13:40:17.488 INFO  [12296] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:40:17.488 INFO  [12296] [main@145] OK: Inputfile: out.csv
+2024-04-28 13:40:46.234 INFO  [12300] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:40:46.234 INFO  [12300] [main@145] OK: Inputfile: out.csv
+2024-04-28 13:40:46.290 INFO  [12300] [main@184] OK: Outputfile: out.json

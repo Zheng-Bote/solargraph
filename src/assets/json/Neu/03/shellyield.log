@@ -1,0 +1,9 @@
+﻿2024-04-28 13:53:27.831 INFO  [13828] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:53:27.831 INFO  [13828] [main@145] OK: Inputfile: garten_consumption_01_03_2024_00h__01_04_2024_00h.csv
+2024-04-28 13:53:27.903 INFO  [13828] [main@167] OK: Outputfile: out.csv
+2024-04-28 13:53:38.025 INFO  [13833] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:53:38.025 INFO  [13833] [main@145] OK: Inputfile: zendure_speicher_consumption_01_03_2024_00h__01_04_2024_00h.csv
+2024-04-28 13:53:38.097 INFO  [13833] [main@167] OK: Outputfile: out.csv
+2024-04-28 13:54:01.549 INFO  [13836] [main@142] started: /home/zb_bamboo/DEV/__NEW__/CPP/solaryield/output/shellyield-3.0.0
+2024-04-28 13:54:01.549 INFO  [13836] [main@145] OK: Inputfile: out.csv
+2024-04-28 13:54:01.603 INFO  [13836] [main@184] OK: Outputfile: 2024-03.json

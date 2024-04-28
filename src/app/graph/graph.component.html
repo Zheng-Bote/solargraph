@@ -1,0 +1,12 @@
+<section>
+  <h3>Month: {{ val_month }}/{{ val_year }}</h3>
+  <p>Watt total: {{ val_watt_per_month }}kW</p>
+
+  <canvas
+    baseChart
+    [data]="barChartData"
+    [options]="barChartOptions"
+    [type]="'bar'"
+  >
+  </canvas>
+</section>
